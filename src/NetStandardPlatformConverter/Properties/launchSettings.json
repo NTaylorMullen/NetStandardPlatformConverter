@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NetStandardPlatformConverter": {
+      "commandName": "NetStandardPlatformConverter",
+      "commandLineArgs": "C:\\Users\\nimullen\\Documents\\GitHub\\NetStandardPlatformConverter\\src\\NetStandardPlatformConverter\\razor.json"
+    }
+  }
+}
